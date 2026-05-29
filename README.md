@@ -1,1 +1,1 @@
-# MLproject4-Calories-Burnt-Prediction
+# Calories Burnt Prediction
