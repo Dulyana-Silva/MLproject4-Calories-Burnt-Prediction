@@ -10,7 +10,7 @@ st.title("Calories Burnt Prediction App")
 
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.image("fitness.jpeg", width=350)
+    st.image("fitness.jpg", width=400)
     
 st.write("Enter your details to predict the calories burnt during the workout.")
 
