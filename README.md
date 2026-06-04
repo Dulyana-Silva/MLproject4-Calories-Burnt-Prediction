@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on predicting the number of calories burned during physical activity using Machine Learning. The model was trained on physiological and exercise-related attributes. The project follows the complete end-to-end ML workflow strating from data collection, preprocessing and then goes on upto deployment of the model through a Streamlit web application.
+This project focuses on predicting the number of calories burned during physical activity using Machine Learning. The model was trained on physiological and exercise-related attributes. The project demonstrates an end-to-end Machine Learning workflow, from raw data analysis to model deployment and was successfully integrated into a Streamlit application, providing users with real-time calorie burn predictions.
 
 ---
 
@@ -219,12 +219,5 @@ The model then predicts the estimated calories burned in real time.
 
 * Add BMI calculation
 * Add fitness recommendations
-* Incorporate additional health metrics
 * Deploy using cloud infrastructure
 * Develop a mobile application version
-
----
-
-## Conclusion
-
-This project demonstrates an end-to-end Machine Learning workflow, from raw data analysis to model deployment. The XGBoost model achieved strong predictive performance and was successfully integrated into a Streamlit application, providing users with real-time calorie burn predictions.
