@@ -210,6 +210,8 @@ The model then predicts the estimated calories burned in real time.
 * User-friendly design
 * Machine Learning powered recommendations
 
+### Click the Link to view the streamlit app -  
+https://mlproject4-calories-burnt-prediction-kyufafihyr765k4njuthri.streamlit.app/
 
 <p align = "center"><img width="537" height="773" alt="image" src="https://github.com/user-attachments/assets/36889d87-0209-46af-86f4-25d2abf7dd30" /><p/>
 
